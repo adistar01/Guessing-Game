@@ -1,11 +1,6 @@
-###########################
-## PART 10: Simple Game ###
 ### --- CODEBREAKER --- ###
 ## --Nope--Close--Match--##
 ###########################
-
-# It's time to actually make a simple command line game so put together everything
-# you've learned so far about Python. The game goes like this:
 
 # 1. The computer will think of 3 digit number that has no repeating digits.
 # 2. You will then guess a 3 digit number
@@ -17,9 +12,6 @@
 #
 # 4. Based on these clues you will guess again until you break the code with a
 #    perfect match, the game will report "CODE CRACKED"!
-
-# There are a few things you will have to discover for yourself for this game!
-# Here are some useful hints:
 
 import random
 
